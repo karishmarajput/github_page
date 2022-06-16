@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aaryan Rastogi</h1>
+<h1 align="center">Hi 👋, I'm Karishma Rajput</h1>
 <h3 align="center">Newbie learning new things everyday.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryan246&label=Profile%20views&color=0e75b6&style=flat" alt="aaryan246" /> </p>
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Full Stack development**
 
-- 📫 How to reach me **aaryan24602@gmail.com**
+- 📫 How to reach me **karrajput3948@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
